@@ -1,0 +1,215 @@
+ #logo{
+    width: 244px;
+    height: 64px;
+    cursor: pointer;
+
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    
+}
+.menu{
+    display: flex;
+        padding-left: 20px;
+        list-style-type: none; 
+        font-family: Roboto, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 30px;
+        font-weight: 400px;
+        color: #ababab;
+        cursor: pointer;
+}
+.menu-item{ 
+    margin-left: 20px;
+}
+.menu-item-drop{
+    display: none;
+    color: #ababab;
+    box-shadow: 0px 0px 10px;
+}
+.menu-item:hover .menu-item-drop{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin-left: -137px;
+    }
+    .menu-item:hover{
+        color: rgb(0,199, 155)
+    }
+    h1{
+        font-family: "Work Sans", Arial, sans-serif;
+        font-size: 26px;
+        Line-height: 44.2px;
+        font-weight: 300;
+        color: rgb(0, 179, 155);
+        text-align:center;
+        margin-left: 50px;
+    }
+    .logo{
+        text-align:center;
+       
+    }
+   .conteneur{
+       overflow:hidden;}
+      
+   .colp{
+       width: 35%;
+       float: left;
+       display: inline;
+       font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.75;
+    color: rgb(116, 116, 116);
+    
+    padding-left: 130px;
+    
+    
+   }
+   .forpatients{  
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 15px;
+    Line-height: 20px;
+    font-weight: 300;
+    padding-top: 35px;
+    color: white;
+    text-align:start;
+ 
+    margin-left: 130px;
+    border-radius: 15px;
+    background-color:rgb(0, 204, 177);
+    width: 21%;
+    height: 260px;
+    margin-top: -10px;
+    
+       }
+   .fordoctors{
+        font-family: "Work Sans", Arial, sans-serif;
+        font-size: 15px;
+        Line-height: 20px;
+        font-weight: 300;
+        padding-top: 35px;
+        color: white;
+        text-align:start;
+    
+        margin-left: 500px;
+        border-radius: 15px;
+        background-color:rgb(81, 144, 226);
+        width: 21%;
+        height: 260px;
+        margin-top: -310px;
+   }
+    
+      .forclinics{  
+        font-family: "Work Sans", Arial, sans-serif;
+        font-size: 15px;
+        Line-height: 20px;
+        font-weight: 300;
+        padding-top:35px;
+        color: white;
+        text-align:start;
+        
+        margin-left: 870px;
+        border-radius: 15px;
+        background-color:rgb(50, 61, 73);
+        width: 21%;
+        height: 260px;
+        margin-top: -310px;
+        
+           }
+   h3{
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 26px;
+    Line-height: 40px;
+    font-weight: 300;
+    color: rgb(0, 179, 155);
+    text-align:start;
+    width: 18%;
+    margin-left: 130px;
+   }
+   
+    
+    
+   
+   .brbc{
+       background-color:rgb(216, 246, 246) ;
+       font-family: "Work Sans", Arial, sans-serif;
+       font-size: 0px;
+       Line-height: 40px;
+       font-weight: 300;
+       
+       text-align:start;
+       margin-left: -10px;
+       height: 600px;
+        
+   }
+
+ 
+
+   .logo2{
+    
+    margin-left: -900px; 
+    margin-top: -1270px; 
+    
+   }
+
+   h4{
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 26px;
+    Line-height: 44.2px;
+    font-weight: 300;
+    color: rgb(0, 179, 155);
+    text-align:center;
+    margin-left: 50px;
+    
+    height: 50px;
+    margin-top: -750px;
+}
+.parg2{
+    width: 35%;
+    float: left;
+    
+    font-family: Roboto, Arial, sans-serif;
+ font-size: 13px;
+ font-weight: 400;
+ line-height: 1.75;
+ color: rgb(116, 116, 116);
+ text-align:center;
+ padding-left: 460px;
+ margin-top: -35px;
+}
+ 
+ h5{
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 26px;
+    Line-height: 44.2px;
+    font-weight: 300;
+    color: rgb(0, 179, 155);
+    text-align:center;
+    
+
+ }
+
+
+.drapeau{
+
+font-family: "Work Sans", Arial, sans-serif;
+    font-size: 10px;
+    Line-height: 20px;
+    font-weight: 300;
+    padding-top: 35px;
+    padding-left: 12px;
+    color:red;
+    text-align:center;
+ 
+    margin-left: 630px;
+    border-radius: 15px;
+    background-color:white;
+    width: 18%;
+height: 200px;
+margin-top: -680px;
+}
+
